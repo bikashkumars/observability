@@ -1,4 +1,5 @@
 # About
+If you are a Ops Team, Developer, Architect or SRE this repo is just for you.
 I am maintaining this repo which will talk about different Open Source solution and technology stack towards observability.
 
 5 Factors we will consider while designing tools and technology
