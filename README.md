@@ -16,4 +16,8 @@ I am maintaining this repo which will talk about different Open Source solution 
 4. Jaeger
 5. ELK
 
+## Prometheus
+
+A single Prometheus server can handle millions of time series records. it's enough for a thousand servers with a thousand time series each scraped every 10 seconds. As your systems scale beyond that, Prometheus can scale too.
+
 ![img](diagram/architecture.svg)
